@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(243, 219, 185);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 0, 106);
+    font-style: italic;
+}
+
+img {
+    border: 3px solid black;
+    padding: 5px;
+    background-color: rgb(184, 184, 166);
+    margin: 3px;
+    margin-left: 36vw;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(24, 146, 71);
+}
+
+p,ul li,ol li {
+    font-size: 20px;
+}

@@ -1,0 +1,20 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+a {
+    display: flex;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 300;
+    color: darkcyan;
+    background-color: rgb(248, 235, 235);
+    line-height: 1.5;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
