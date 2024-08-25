@@ -7,6 +7,7 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(64, 34, 162);
     font-style: italic;
+    font-size: 50px;
 }
 
 img {
@@ -24,4 +25,23 @@ h2 {
 
 p,ul li,ol li {
     font-size: 20px;
+}
+
+
+p {
+    border: 3px solid black;
+    padding: 5px;
+}
+
+ul li {
+    border: 2px solid black;
+    margin-bottom: 13px;
+    padding: 13px
+}
+
+ol li {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+
 }

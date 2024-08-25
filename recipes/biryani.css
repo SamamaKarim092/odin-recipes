@@ -8,6 +8,7 @@ h1 {
     color: blue;
     text-decoration: underline;
     font-style: italic;
+    font-size: 50px;
 }
 
 img {
@@ -21,8 +22,27 @@ img {
 h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: brown;
+    margin-left: 10px;
 }
 
 p,ul li,ol li {
     font-size: 20px;
+}
+
+p {
+    border: 3px solid black;
+    padding: 5px;
+}
+
+ul li {
+    border: 2px solid black;
+    margin-bottom: 13px;
+    padding: 13px
+}
+
+ol li {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+
 }
